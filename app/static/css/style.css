@@ -1,0 +1,11 @@
+body {
+font-size: 200%;
+}
+
+hero-image {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.9)), url("https://live.staticflickr.com/3488/3916973117_458e904337_b.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
